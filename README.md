@@ -5,3 +5,10 @@
 - Languages used for the front-end: React.JS, Javascript, HTML5, CSS3.
 - Languages used for the back-end: Node.js, Express.js, SQL(PostgreSQL).
 - Background was created with Particles.js library.
+
+# Running the app:
+\- Clone this repo<br>
+\- Run npm install<br>
+\- Run npm start
+
+# Quick preview:
