@@ -12,3 +12,7 @@
 \- Run npm start
 
 # Quick preview:
+![screenshot1](https://github.com/mariyan-yanakiev/FaceRecognitionApp/blob/master/blob/Smart-brain%201.PNG)
+![screenshot2](https://github.com/mariyan-yanakiev/FaceRecognitionApp/blob/master/blob/Smart-brain%202.PNG)
+![screenshot3](https://github.com/mariyan-yanakiev/FaceRecognitionApp/blob/master/blob/Smart-brain%203.PNG)
+![screenshot4](https://github.com/mariyan-yanakiev/FaceRecognitionApp/blob/master/blob/Smart-brain%204.PNG)
